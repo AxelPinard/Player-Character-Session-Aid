@@ -1,5 +1,5 @@
 package src.main.race.model;
-import com.github.AxelPinard.PlayerCharacterSessionAid.stats.model.Size;
+import src.main.stats.model.Size;
 
 public class Race {
     private String raceName;
