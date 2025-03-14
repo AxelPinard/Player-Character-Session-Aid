@@ -1,4 +1,4 @@
-package ClassPackage;
+package src.main.classes.model;
 
 public class Class {
 
