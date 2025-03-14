@@ -1,9 +1,9 @@
 package com.github.AxelPinard.PlayerCharacterSessionAid.stats.model
 
 public class HP {
-    int current;
-    int max;
-    int temp;
+    private int current;
+    private int max;
+    private int temp;
 
     public HP(int current, int max, int temp) {
         this.current = current;
@@ -56,8 +56,8 @@ public class Size {
 
 public class Ability {
     private String name;
-    int score;
-    int modifier;
+    private int score;
+    private int modifier;
 
     public Ability(String name, int score) {
         this.name = name;
