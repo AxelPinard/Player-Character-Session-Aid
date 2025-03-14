@@ -1,4 +1,4 @@
-package com.github.AxelPinard.PlayerCharacterSessionAid.equipment.model
+package src.main.equipment.model
 
 public class Item {
     private String name;
