@@ -1,12 +1,12 @@
 package src.main.race.model;
 import src.main.stats.model.Size;
 
-public class Race {
+public class Races {
     private String raceName;
     private Size SizeMod;
     private int speed;
 
-    public Race() {}
+    public Races() {}
 
     public int getSpeed() {return speed;}
     public void setSpeed(int speed) {this.speed = speed;}
