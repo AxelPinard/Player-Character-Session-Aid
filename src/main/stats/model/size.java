@@ -1,4 +1,4 @@
-package com.github.AxelPinard.PlayerCharacterSessionAid.stats.model
+package src.main.stats.model;
 
 public class Size {
     private String name;
